@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<title>Erlebnistag im BIT</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+ 
+
+</head>
+<!--link rel="stylesheet" href="styles.css" /-->
+<link rel="stylesheet" href="styles.css" />
+<body>
+<main>
+  <header>
+Vorlage Html
+  </header>
+
+  <nav>
+    <a href="/index.html" >Hauptseite</a>
+    <a href="/gamebot.html">Game-Bot</a>
+    <a href="/template.html">Vorlage</a>
+  </nav>
+ 
+  <section>
+    
+    <!-- Hauptspalte der Website -->
+    In den nachfolgenden Abschnitten in dieser Spalte ist die Struktur der Webseite beschrieben. Diese Überschrift findest du im HTML-Code unter "section". <br></br>Damit kannst du zum Beispiel eine Einleitung oder  Beschreibung der nachfolgenden Felder schreiben.  
+    
+    <!-- Überschrift der innerhalb der Spalte -->
+    <header>Dieses Feld heisst "section-> header" und ist im HTML Code innerhalb von "section" zu finden. Achtung: Nicht verwechseln mit dem header links oben. </header> 
+    
+    <!-- Textbereich innerhalb der Spalte -->
+    <article>Dieses Feld heisst im HTML Code "section-> article"</article>
+    
+    <!-- Schlussteil innerhalb der Spalte -->
+    <footer>Dieses Feld heisst im HTML Code "section-> footer"</footer>
+  </section>
+ 
+  <aside>
+  Diese Seitenleiste auf der rechten Seite heisst im HTML Code "aside" <br></br>  Hier können weitere Inhalte wie zum Beispiel Erklärungen eingefügt werden <!-- Eine Seitenleiste -->
+  </aside>
+ 
+  <footer>
+    Hier ist die abschliessende Fusszeile <!-- Der Fußbereich -->
+  </footer>
+</main>   
+</body>
+
+
+</html>
